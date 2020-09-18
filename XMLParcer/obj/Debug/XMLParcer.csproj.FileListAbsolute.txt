@@ -1,0 +1,17 @@
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\bin\Debug\XMLParcer.exe.config
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\bin\Debug\XMLParcer.exe
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\bin\Debug\XMLParcer.pdb
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.csprojAssemblyReference.cache
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\MainWindow.g.cs
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\Pages\StartPage.g.cs
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\App.g.cs
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer_MarkupCompile.cache
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer_MarkupCompile.lref
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\MainWindow.baml
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\Pages\StartPage.baml
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.g.resources
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.Properties.Resources.resources
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.csproj.GenerateResource.cache
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.csproj.CoreCompileInputs.cache
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.exe
+F:\Lections\XMLParcerProject\XMLParcer\XMLParcer\obj\Debug\XMLParcer.pdb
